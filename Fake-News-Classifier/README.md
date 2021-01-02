@@ -15,10 +15,10 @@ The dataset for news is taken from Kaggle https://www.kaggle.com/c/fake-news/. T
 
 # Accuracy Score of different model
 
-* Bag of Words CountVectorizer  - 0.9026
-* Bag of Words TF-IDF           - 0.9207
-* RNN LSTM                      - 0.92
-* RNN Bidirectional LSTM        - 0.9289
+* Bag of Words using Stemming:  0.9026
+* TF-IDF using Lemmatization:   0.8814
+* RNN LSTM:                     0.92
+* RNN Bidirectional LSTM:       0.9289
 
 # Conclusion
 
