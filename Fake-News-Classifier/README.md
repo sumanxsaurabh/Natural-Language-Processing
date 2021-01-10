@@ -15,11 +15,10 @@ The dataset for news is taken from Kaggle https://www.kaggle.com/c/fake-news/. T
 
 # Accuracy Score of different model
 
-* Bag of Words using Stemming:  0.9026
-* TF-IDF using Lemmatization:   0.8814
-* RNN LSTM:                     0.92
-* RNN Bidirectional LSTM:       0.9289
+* Bag of Words using Stemming : 0.9026
+* TF-IDF using Lemmatization  : 0.8814
+* RNN LSTM                    : 0.9133
 
 # Conclusion
 
-We can see that RNN Bidirectional LSTM gave a greater accuracy than Bag of Words, TF-IDF and LSTM model. Hence, this model should be preferred over others.
+We can see that RNN LSTM gave a greater accuracy than Bag of Words, TF-IDF and LSTM model. Hence, this model should be preferred over others.
